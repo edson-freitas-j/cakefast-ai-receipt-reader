@@ -1,0 +1,14 @@
+# Credenciais e configurações
+.env
+.env.*
+!.env.example
+
+# Imagens e documentos fiscais reais
+examples/*.jpeg
+examples/*.jpg
+examples/*.png
+examples/*.pdf
+
+# Arquivos temporários
+*.log
+.DS_Store
